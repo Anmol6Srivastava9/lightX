@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lightX/static/css/main.2820c667.css",
+    "main.js": "/lightX/static/js/main.d47b32e9.js",
+    "static/js/787.3c8c9436.chunk.js": "/lightX/static/js/787.3c8c9436.chunk.js",
+    "static/media/complaint.jpg": "/lightX/static/media/complaint.26f30f1983cfb9b493e1.jpg",
+    "static/media/resolved.webp": "/lightX/static/media/resolved.0b4f474ffb5d22a30a7e.webp",
+    "index.html": "/lightX/index.html",
+    "main.2820c667.css.map": "/lightX/static/css/main.2820c667.css.map",
+    "main.d47b32e9.js.map": "/lightX/static/js/main.d47b32e9.js.map",
+    "787.3c8c9436.chunk.js.map": "/lightX/static/js/787.3c8c9436.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2820c667.css",
+    "static/js/main.d47b32e9.js"
+  ]
+}
