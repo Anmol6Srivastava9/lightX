@@ -1,0 +1,36 @@
+/* Navbar.css */
+.navbar {
+    background-color: #000; /* Set background color to black */
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff; /* Set the color of the links to white */
+    font-weight: bold; /* Optionally, make the font bold */
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+  }
+  
+  .nav-links a:hover {
+    color: black; /* Change color on hover to a different color (e.g., yellow) */
+    background:#f4f4f4;
+    padding:20px;
+    border-radius:35px;
+}
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+
+  .logo{
+    font-size:20px;
+    color:#ffcc00;
+    font-weight: bold;
+    padding-left:50px;
+  }  

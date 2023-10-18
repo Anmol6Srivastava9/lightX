@@ -1,0 +1,64 @@
+/* Styles for large screens */
+.LoginMain {
+    background: url("https://media.istockphoto.com/id/1367699655/photo/light-bulb-idea-3d-render-light-bulb-shines-next-to-the-extinguished-ones-leadership.jpg?b=1&s=170667a&w=0&k=20&c=sSWx_gokQ63P2NeghuGUdy_kzubxjTIZLPHtnUXE-BM=");
+    height: 100vh;
+    background-size: cover;
+    padding: 200px;
+}
+
+.login-container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Styles for mobile screens */
+@media (max-width: 768px) {
+    .LoginMain {
+        padding: 100px;
+    }
+
+    .login-container {
+        width: 90%;
+    }
+}

@@ -1,0 +1,16 @@
+/* Footer.css */
+.footer {
+    background-color: #000; /* Set the background color to black */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  /* Media query for small screens */
+  @media (max-width: 768px) {
+    .footer {
+      font-size: 12px;
+    }
+  }
+  

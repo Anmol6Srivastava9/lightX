@@ -1,0 +1,36 @@
+/* ContactUs.css */
+.main{
+    height: 90vh;
+    background-image:url("https://media.istockphoto.com/id/1367699655/photo/light-bulb-idea-3d-render-light-bulb-shines-next-to-the-extinguished-ones-leadership.jpg?b=1&s=170667a&w=0&k=20&c=sSWx_gokQ63P2NeghuGUdy_kzubxjTIZLPHtnUXE-BM=");
+    background-size:cover;
+}
+.contactdiv{
+    padding-top:200px;
+}
+.contact-card {
+    background-color: #f4f4f4;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin:auto;
+  }
+  
+  .contact-card h2 {
+    color: #333;
+  }
+  
+  .contact-card p {
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  /* Media query for small screens */
+  @media (max-width: 768px) {
+    .contact-card {
+      width: 90%;
+    }
+  }
+  
