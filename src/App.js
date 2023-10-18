@@ -9,7 +9,7 @@ import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="lightX">
       <div className="App">
         <Routes>
           <Route path='/' element={<LoginForm />}></Route>
