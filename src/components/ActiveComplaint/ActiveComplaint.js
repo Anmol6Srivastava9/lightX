@@ -30,7 +30,7 @@ const ActiveComplaint = () => {
                 <th>Complaint Date</th>
                 <th>Location</th>
                 <th>Fault Type</th>
-                <th>Fault Type</th>
+                <th>Fault Status</th>
                 <th>Click If resolved</th>
             </tr>
             </thead>
